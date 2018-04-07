@@ -1,13 +1,21 @@
 <h1> RUDA*OFF BOYZ </h1>
 
 <h3> Install this </h3>
+
 ```
+
 npm install/yarn
+
 ```
+
 <h3>How to run</h3>
+
 ```
+
 yarn run dev
+
 ```
+
 <h3>Использовалось </h3>
 Основной фреймворк - Vue.js
 

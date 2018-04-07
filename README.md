@@ -12,6 +12,12 @@ npm install/yarn
 yarn run dev
 ```
 
+<h3>Ошибка "nuxt"</h3>
+
+```
+yarn add nuxt
+```
+
 <h3>Использовалось </h3>
 
 Основной фреймворк - Vue.js

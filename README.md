@@ -3,17 +3,13 @@
 <h3> Install this </h3>
 
 ```
-
 npm install/yarn
-
 ```
 
 <h3>How to run</h3>
 
 ```
-
 yarn run dev
-
 ```
 
 <h3>Использовалось </h3>

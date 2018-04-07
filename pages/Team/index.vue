@@ -16,8 +16,8 @@ import Team from '~/components/Team.vue'
 export default {
   components: { MainTitle, Team },
   mounted(){
-    var gl = Object.create(glitch_exec);
-    gl.start(document.body); //активируем скрипт на глитчи
+    // var gl = Object.create(glitch_exec);
+    // gl.start(document.body); //активируем скрипт на глитчи
   },
   //random top и left для картинок на заднем фоне
   methods: {
